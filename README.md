@@ -1,10 +1,10 @@
-# InfraTrace
+# Civic Trace
 
 **Every Asset. Every Repair. Complete Accountability.**
 
 > **DEXATHON 2026 | Open Innovation | Round 1 concept / proposal stage**
 
-InfraTrace is a proposed **unified public infrastructure maintenance and accountability platform**. It aims to make maintenance history, upcoming service dates, reported defects, and available contractor information easier to track across public assets.
+Civic Trace is a proposed **unified public infrastructure maintenance and accountability platform**. It aims to make maintenance history, upcoming service dates, reported defects, and available contractor information easier to track across public assets.
 
 **Project status:** Planning and documentation. A functional prototype has **not yet been published** in this repository. The workflows and technology stack below describe the intended MVP, not completed capabilities.
 
@@ -38,9 +38,9 @@ The data model is intended to accommodate other municipal assets in future phase
 
 **Important:** A photo, timestamp, or GPS coordinate alone does not prove that work was properly completed. Approval and audit history support traceability but cannot eliminate false reports.
 
-## What makes InfraTrace different?
+## What makes Civic Trace different?
 
-InfraTrace is **not just another complaint app**. Its intended focus is the *asset lifecycle*: service history, scheduled work, evidence-backed updates, warranty review, and public-facing visibility in one place. Existing municipal systems may offer individual components; InfraTrace proposes integrating them into one understandable workflow.
+Civic Trace is **not just another complaint app**. Its intended focus is the *asset lifecycle*: service history, scheduled work, evidence-backed updates, warranty review, and public-facing visibility in one place. Existing municipal systems may offer individual components; Civic Trace proposes integrating them into one understandable workflow.
 
 ## Proposed MVP (24-hour hackathon)
 
