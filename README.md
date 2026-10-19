@@ -95,7 +95,7 @@ These are planned choices and may be adjusted during implementation.
 
 ### Team members
 
-1. **Rohith Chandar R. G.** — Team Leader
+1. **Rohith Chandar R. G.**
 2. Sanlyn Bright A.
 3. Rakshana V.
 4. Rifni Roch R.
