@@ -90,15 +90,17 @@ These are planned choices and may be adjusted during implementation.
 
 ## Team
 
-Hackathon team: **Team Verity**.
+**Hackathon team:** Team Verity  
+**Team leader:** Rohith Chandar R. G.
 
 ### Team members
 
-1. Rohith Chandar R. G.
+1. **Rohith Chandar R. G.** — Team Leader
 2. Sanlyn Bright A.
-3. Rakshana K.
+3. Rakshana V.
 4. Rifni Roch R.
 5. Rithika Sri P.
+6. Sanjana K.
 
 ## Disclaimer
 
