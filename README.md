@@ -90,7 +90,7 @@ These are planned choices and may be adjusted during implementation.
 
 ## Team
 
-Hackathon team: **To be added**.
+Hackathon team: **Team Verity**. Team member names: **To be added**.
 
 ## Disclaimer
 
