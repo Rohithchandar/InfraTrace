@@ -90,7 +90,15 @@ These are planned choices and may be adjusted during implementation.
 
 ## Team
 
-Hackathon team: **Team Verity**. Team member names: **To be added**.
+Hackathon team: **Team Verity**.
+
+### Team members
+
+1. Rohith Chandar R. G.
+2. Sanlyn Bright A.
+3. Rakshana K.
+4. Rifni Roch R.
+5. Rithika Sri P.
 
 ## Disclaimer
 
