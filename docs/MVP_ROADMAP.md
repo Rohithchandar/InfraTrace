@@ -1,4 +1,4 @@
-# InfraTrace — 24-Hour MVP Development Roadmap
+# Civic Trace — 24-Hour MVP Development Roadmap
 
 **Status:** Planned, not yet implemented.
 
