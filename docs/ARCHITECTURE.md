@@ -1,4 +1,4 @@
-# InfraTrace — Proposed Architecture
+# Civic Trace — Proposed Architecture
 
 > Architecture specification for an unbuilt hackathon MVP. It documents intended behaviour, not a live system.
 
