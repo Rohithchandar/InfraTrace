@@ -1,4 +1,4 @@
-# InfraTrace — Round 1 Project Proposal
+# Civic Trace — Round 1 Project Proposal
 
 **Event:** DEXATHON 2026  
 **Theme:** Open Innovation  
@@ -10,7 +10,7 @@ Residents can often report damaged civic assets, yet a complaint alone does not 
 
 ## 2. Proposed approach
 
-InfraTrace proposes an integrated digital infrastructure passport for each registered asset. It links inspection and maintenance entries, planned service dates, defect reports, verification evidence, and appropriate public-facing contractor data.
+Civic Trace proposes an integrated digital infrastructure passport for each registered asset. It links inspection and maintenance entries, planned service dates, defect reports, verification evidence, and appropriate public-facing contractor data.
 
 **Goal:** Move from isolated complaints toward traceable maintenance lifecycles and preventive follow-up.
 
